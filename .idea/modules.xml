@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CamelFileUpload.iml" filepath="$PROJECT_DIR$/.idea/modules/CamelFileUpload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CamelFileUpload_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CamelFileUpload_main.iml" group="CamelFileUpload" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CamelFileUpload_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CamelFileUpload_test.iml" group="CamelFileUpload" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/complete.iml" filepath="$PROJECT_DIR$/.idea/modules/complete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/complete_main.iml" filepath="$PROJECT_DIR$/.idea/modules/complete_main.iml" group="complete" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/complete_test.iml" filepath="$PROJECT_DIR$/.idea/modules/complete_test.iml" group="complete" />
+    </modules>
+  </component>
+</project>

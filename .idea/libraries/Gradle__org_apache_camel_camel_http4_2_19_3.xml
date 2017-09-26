@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.camel:camel-http4:2.19.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.camel/camel-http4/2.19.3/1b6ad2122723cbe9cacdf09653643bee110f02bc/camel-http4-2.19.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.camel/camel-http4/2.19.3/195be25320d02c6d5f579b14b99c3173a048fb12/camel-http4-2.19.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
